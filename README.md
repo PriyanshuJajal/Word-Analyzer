@@ -24,7 +24,7 @@ It helps you quickly analyze any text for **word count, character count & senten
 
 ## 💬 Feedback
 If you have any feedback, ideas, or suggestions, feel free to:<br>
-1.  an issue on GitHub Issues <br>
+1. An issue on GitHub Issues <br>
 2. Or connect on LinkedIn
 
 
