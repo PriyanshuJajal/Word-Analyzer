@@ -1,12 +1,49 @@
-# React + Vite
+# 📝 Word Analyzer (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **Word Analyzer** built with **React**.  
+It helps you quickly analyze any text for **word count, character count & sentence count**.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
 
-## Expanding the ESLint configuration
+✅ Count **words** & **characters**  
+✅ Detect **sentences & paragraphs**  
+✅ Clean, responsive UI  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack  
+
+- **React (Vite)**  
+- **CSS** for styling
+- **Font Awesome** for unique font-family
+- **Regex** for text analysis
+  
+---
+
+## 💬 Feedback
+If you have any feedback, ideas, or suggestions, feel free to:
+Open an issue on GitHub Issues
+Or connect on LinkedIn
+
+
+### Made with React & ❤️ by Priyanshu Jajal...
+
+
+## 📦 How to Run Locally  
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/<your-username>/<repo-name>.git
+
+# 2. Navigate into the project
+cd <repo-name>
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the app
+npm run dev    # (if using Vite)
+# OR
+npm start      # (if using Create React App)
