@@ -13,7 +13,8 @@ function App() {
     const inputText = e.target.value;
     setText(inputText); 
 
-    const words = inputText.trim().split(/\s+/).filter(word => word.length > 0);
+    const trimmedText = inputText.trim();
+    const words = trimmedText === '' ? [] : trimmedText.split(/\s+/);
     setWordCnt(words.length);
 
     if (inputText.trim() == "") {
